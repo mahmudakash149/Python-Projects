@@ -1,3 +1,4 @@
+# Advance way to create QR Code
 import qrcode as qr
 from PIL import Image
 
